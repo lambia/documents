@@ -1,0 +1,11 @@
+This Privacy Policy is designed to help you understand what information we collect from visitors to our websites or software user, how we use such information at KeepKash, and the choices you have associated with that information.
+
+When we refer to “we,” “our,” or “us” in this policy, we are referring to lambia.it, and its subsidiaries and affiliates, as the “controller” (and/or a “business”) or the equivalent legal construct under applicable law of the information we process when you visit our websites and/or we interact with you through our marketing channels for business purposes. When we refer to “personal information” in this policy, we are referring to personal data, personally identifiable information, or the equivalent of each under applicable law.
+
+It is simple: we don't a we will never ever do track, collect or record any personal information or whatsoever kind of data. Our website just use technical cookies, that are stored on the visitor's browser to save preferences, and are read again on the next visit, again in the client's browser without sending or processing data anywhere.
+
+Our software (eg. windows applications, android apps, chrome extensions, but not limited to) store only the data needed to erogate the service, without sending them anywhere. No data is ever collected. The user is not tracked.
+
+The application "Status-Chrome" also known as "Blocco Popup" or "Popup Blocker" can read the url of the opened tabs, to understand which are popups. You can check the source code on github (*): data are not stored, neither on storage or variables. Data are just checked/evaluated at runtime and then discarded.
+
+* https://github.com/lambia/status-chrome
