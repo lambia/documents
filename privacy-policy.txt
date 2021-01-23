@@ -1,4 +1,4 @@
-This Privacy Policy is designed to help you understand what information we collect from visitors to our websites or software user, how we use such information at KeepKash, and the choices you have associated with that information.
+This Privacy Policy is designed to help you understand what information we collect from visitors to our websites or software user, how we use such information, and the choices you have associated with that information.
 
 When we refer to “we,” “our,” or “us” in this policy, we are referring to lambia.it, and its subsidiaries and affiliates, as the “controller” (and/or a “business”) or the equivalent legal construct under applicable law of the information we process when you visit our websites and/or we interact with you through our marketing channels for business purposes. When we refer to “personal information” in this policy, we are referring to personal data, personally identifiable information, or the equivalent of each under applicable law.
 
@@ -7,5 +7,17 @@ It is simple: we don't a we will never ever do track, collect or record any pers
 Our software (eg. windows applications, android apps, chrome extensions, but not limited to) store only the data needed to erogate the service, without sending them anywhere. No data is ever collected. The user is not tracked.
 
 The application "Status-Chrome" also known as "Blocco Popup" or "Popup Blocker" can read the url of the opened tabs, to understand which are popups. You can check the source code on github (*): data are not stored, neither on storage or variables. Data are just checked/evaluated at runtime and then discarded.
+
+##################################################################################################
+
+Questa Privacy Policy ha lo scopo di aiutarti a comprendere quali informazioni vengono raccolte dai visitatori dei nostri siti e software, come usiamo queste informazioni e le scelte che hai riguardo il loro trattamento.
+
+Quando ci riferiamo a "noi" in questa policy, ci riferiamo a Luca Lambia o lambia.it.
+
+La versione breve è che non tracciamo, raccogliamo o registriamo nessuna informazione personale di nessun tipo. I nostri software utilizzano solo i dati necessari ad erogare il servizio, salvandoli in locale sul dispositivo senza inviarli da nessuna parte. Nessun dato raccolto, nessun utente tracciato.
+
+L'applicazione "Status-Chrome", nota anche come "Blocco Popup", può leggere gli url delle tab aperte, per comprendere quali di esse sono popup. Puoi controllare il codice sorgente su github (*): nessun dato viene salvato, neanche nello storage o variabili locali. I dati sono solo controllati durante l'esecuzione per valutarli, e poi scartati.
+
+##################################################################################################
 
 * https://github.com/lambia/status-chrome
